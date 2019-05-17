@@ -1,0 +1,6 @@
+framework module Pods_TabletChallengeTests {
+  umbrella header "Pods-TabletChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
